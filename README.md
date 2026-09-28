@@ -1,6 +1,5 @@
 # Invention-boucl-e-
-Mon invention met en avance l'utilisation de informatique dans la protection des ressources logistique et matériel,  la protection des données informatiques confidentielle et la mise en place d'un système de sécurité infaillible pour la bonne marche des entreprises 
-Je n'arrive pas à ouvrir le contenu (GitHub bloque l'affichage externe) mais j'ai vu que le repo existe bien. Il est vide pour l'instant c'est ça ?
+Mon invention met en avance l'utilisation de informatique dans la protection des ressources logistique et matériel,  la protection des données informatiques confidentielles et la mise en place d'un système de sécurité infaillible pour la bonne marche des entreprises 
 
 
 # Invention Bouclée - Sécurisation et Gestion Logistique
