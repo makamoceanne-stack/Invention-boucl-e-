@@ -5,7 +5,7 @@ Je n'arrive pas à ouvrir le contenu (GitHub bloque l'affichage externe) mais j'
 
 # Invention Bouclée - Sécurisation et Gestion Logistique
 
-> Projet L3 Informatique - UY1 - Administration Systèmes et Réseaux
+> Projet L1 Informatique - UY1 - Administration Systèmes et Réseaux
 
 ### 🎯 Problématique
 Comment protéger les données confidentielles d'une structure tout en gérant efficacement son matériel logistique pour éviter les vols et les pannes ?
@@ -33,6 +33,6 @@ Mon système fonctionne en boucle :
 - Alertes maintenance
 - Historique des mouvements de matériel
 
-**Auteur :** L3 ASR - UY1 Yaoundé
+**Auteur :** L1 Informatique - UY1 Yaoundé
 **Statut :** Prototype en développement
-Tu veux que je te l'écrive aussi en version rapport Word de 1 page pour remettre à ton encadreur à UY1 ?
+
